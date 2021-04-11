@@ -1,0 +1,18 @@
+    div.background {
+        background-image: url(./Imagens/background.png);
+        background-repeat: no-repeat;
+        color: rgb(255, 255, 255);
+        left: 0;
+        overflow: auto;
+        position: absolute;
+        right: 0;
+        top: 0;
+        background-size: cover;
+    }
+    
+    #crpr {
+        border-color: black;
+        size: 100%;
+        height: fit-content;
+        width: fit-content;
+    }
