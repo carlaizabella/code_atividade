@@ -1,0 +1,41 @@
+    body {
+        display: flex;
+        background-color: rgba(245, 212, 217, 0.911);
+    }
+    
+    .background {
+        background-image: url(./Imagens/background.png);
+        background-position: left;
+        width: 980px;
+    }
+    
+    .tiposcores {
+        color: white;
+    }
+    
+    .cores ol {
+        margin-left: -18px;
+    }
+    
+    .cores {
+        background-color: rgba(114, 114, 114, 0.479);
+        padding: 10px;
+        margin-left: 70px;
+        margin-right: 750px;
+        margin-top: 0px;
+        border-radius: 10px;
+    }
+    
+    .title {
+        display: flex;
+        color: rgb(0, 0, 0);
+        align-items: column;
+        justify-content: center;
+        position: relative;
+    }
+    
+    .title h1 {
+        background-color: rgb(178, 236, 236);
+        padding: 15px;
+        border-radius: 10px;
+    }
